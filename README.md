@@ -7,7 +7,7 @@ kimns2247@naver.com
 저는 최영훈이고 자바 웹개발을 공부하고 있습니다! <br>
 현재는 스프링boot를 공부하며 학습중입니다
 
-🧑‍💻Tech Stack🖱︎ <br>
+🧑‍💻Tech Stack🖱︎ <br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
