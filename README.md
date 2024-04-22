@@ -31,6 +31,6 @@
 
 
 <h2>Email📧 <br>
-kimns2247@naver.com <br>
+kimns2247@naver.com </h2><br>
 <br><br>
   
