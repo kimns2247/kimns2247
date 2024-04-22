@@ -30,7 +30,6 @@
    <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=black">
 
 
-<br><br>
 <h2>Email📧 <br>
 kimns2247@naver.com <br>
 <br><br>
