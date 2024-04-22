@@ -5,7 +5,7 @@ kimns2247@naver.com <br>
 
 안녕하세요 🖐 <br>
 저는 kimns2247입니다. 자바 웹개발을 공부하고 있습니다! <br>
-현재는 스프링boot를 공부하며 학습중입니다 </h2>
+현재는 스프링boot를 공부하며 웹개발중입니다 </h2>
 
 🧑‍💻Tech Stack🖱︎ <br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
