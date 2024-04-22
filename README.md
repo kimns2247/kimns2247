@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&animation=fadeIn&text=kimns2247's%20Profile&fontColor=FFFFFF)
 
 <h2>Email📧 <br>
-kimns2247@naver.com
+kimns2247@naver.com <br>
 
 안녕하세요 🖐 <br>
 저는 kimns2247입니다. 자바 웹개발을 공부하고 있습니다! <br>
