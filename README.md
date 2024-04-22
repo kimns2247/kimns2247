@@ -15,4 +15,5 @@ kimns2247@naver.com
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Mybatis-6DB33F?style=for-the-badge&logo=MYbatis&logoColor=black">
+   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=black">
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
