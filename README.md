@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=kimns2247's GitHub Profile&animation=fadeIn&fontColor=000000&fontSize=60" />
+    </div>
 
 <!--
 **kimns2247/kimns2247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
