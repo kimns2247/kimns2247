@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&animation=fadeIn&text=kimns2247's%20Profile&fontColor=FFFFFF)
 
-<h2>Email📧 <br>
-kimns2247@naver.com <br>
-<br><br>
 
 안녕하세요 🖐 <br><br>
 저는 kimns2247입니다. 자바 웹개발을 공부하고 있습니다! <br><br>
@@ -31,4 +28,10 @@ kimns2247@naver.com <br>
    <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Mybatis-6DB33F?style=for-the-badge&logo=MYbatis&logoColor=black">
    <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=black">
+
+
+<br><br>
+<h2>Email📧 <br>
+kimns2247@naver.com <br>
+<br><br>
   
